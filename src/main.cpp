@@ -1,7 +1,7 @@
 #include <CL/cl.h>
+#include <CL/cl.hpp>
 #include <iostream>
 #include <boost/program_options.hpp>
-#include "cl.hpp"
 
 #ifndef __CL_ENABLE_EXCEPTIONS
 #define __CL_ENABLE_EXCEPTIONS
