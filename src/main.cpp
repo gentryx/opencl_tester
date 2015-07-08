@@ -1,5 +1,6 @@
+#include "cl_gl33.h"
+#include "cl33.hpp"
 #include <CL/cl.h>
-#include <CL/cl.hpp>
 #include <iostream>
 #include <boost/program_options.hpp>
 
